@@ -1,6 +1,18 @@
 import { useEffect, useState } from 'react';
 import {
-  useMediaQuery, Select, MenuItem, FormControl, Button, TextField, Link, Snackbar, IconButton, Tooltip, Box, InputAdornment,
+  useMediaQuery,
+  Select,
+  MenuItem,
+  FormControl,
+  Button,
+  TextField,
+  Link,
+  Snackbar,
+  IconButton,
+  Tooltip,
+  Box,
+  InputAdornment,
+  Typography,
 } from '@mui/material';
 import ReactCountryFlag from 'react-country-flag';
 import { makeStyles } from 'tss-react/mui';
@@ -174,6 +186,9 @@ const LoginPage = () => {
         )}
       </div>
       <div className={classes.container}>
+        <Typography variant="h5" component="h1" textAlign="center">
+          Welcome! Please sign in to continue.
+        </Typography>
         {useMediaQuery(theme.breakpoints.down('lg')) && <LogoImage color={theme.palette.primary.main} />}
         {!openIdForced && (
           <>
