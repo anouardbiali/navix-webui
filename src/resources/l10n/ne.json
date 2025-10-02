@@ -205,6 +205,7 @@
     "loginCreated": "नया प्रयोगकर्ता दर्ता भयो ",
     "loginResetSuccess": "आफ्नो इमेल जाँच गर्नुहोस्",
     "loginUpdateSuccess": "नयाँ पासवर्ड सेट गरिएको छ",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "बाहिरिने ",
     "loginLogo": "लोगो",
     "loginTotpCode": "One-time Password Code",

@@ -205,6 +205,7 @@
     "loginCreated": "නව පරිශීලකයෙකු ලියාපදිංචි වී ඇත",
     "loginResetSuccess": "ඔබගේ විද්යුත් තැපෑල පරීක්ෂා කරන්න",
     "loginUpdateSuccess": "නව මුරපදය සකසා ඇත",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "නික්මෙන්න",
     "loginLogo": "ලාංඡනය",
     "loginTotpCode": "One-time Password Code",

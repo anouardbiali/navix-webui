@@ -205,6 +205,7 @@
     "loginCreated": "新用户已注册成功",
     "loginResetSuccess": "查看您的电子邮件",
     "loginUpdateSuccess": "密码已重置",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "注销",
     "loginLogo": "图标",
     "loginTotpCode": "一次性密码",

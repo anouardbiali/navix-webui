@@ -205,6 +205,7 @@
     "loginCreated": "Yeni kullanıcı kaydedildi",
     "loginResetSuccess": "E-postanı kontrol et",
     "loginUpdateSuccess": "Yeni şifre belirlendi",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Oturumu sonlandır",
     "loginLogo": "Logo",
     "loginTotpCode": "One-time Password Code",

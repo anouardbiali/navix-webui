@@ -186,7 +186,8 @@ const LoginPage = () => {
         )}
       </div>
       <div className={classes.container}>
-        <Typography variant="h5" component="h1" textAlign="center">
+        <Typography variant="h5" component="h1" textAlign="center"
+          {t('loginWelcomeMessage')}
           Welcome! Please sign in to continue.
         </Typography>
         {useMediaQuery(theme.breakpoints.down('lg')) && <LogoImage color={theme.palette.primary.main} />}

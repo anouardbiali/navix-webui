@@ -205,6 +205,7 @@
     "loginCreated": "Nowy użytkownik został zarejestrowany",
     "loginResetSuccess": "Sprawdź swój e-mail",
     "loginUpdateSuccess": "Nowe hasło zostało ustawione",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Wyloguj",
     "loginLogo": "Logo",
     "loginTotpCode": "Kod hasła jednorazowego",

@@ -205,6 +205,7 @@
     "loginCreated": "Ny bruger er registreret",
     "loginResetSuccess": "Tjek din e-mail",
     "loginUpdateSuccess": "Ny adgangskode er indstillet",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Log af",
     "loginLogo": "Logo",
     "loginTotpCode": "One-time Password Code",

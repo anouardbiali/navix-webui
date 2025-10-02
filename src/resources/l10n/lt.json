@@ -205,6 +205,7 @@
     "loginCreated": "Registracija sėkminga",
     "loginResetSuccess": "Patikrinkite savo el. paštą",
     "loginUpdateSuccess": "Naujas slaptažodis sukurtas",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Atsijungti",
     "loginLogo": "Logotipas",
     "loginTotpCode": "Vienkartinio slaptažodžio kodas",

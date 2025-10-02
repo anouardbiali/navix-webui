@@ -205,6 +205,7 @@
     "loginCreated": "S'ha registrat un usuari nou",
     "loginResetSuccess": "Comprova el teu email",
     "loginUpdateSuccess": "S'ha creat la nova contrasenya",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Tancar Sessió",
     "loginLogo": "Logotipus",
     "loginTotpCode": "Codi de contrasenya d'un sol ús",

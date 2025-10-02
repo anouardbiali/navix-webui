@@ -205,6 +205,7 @@
     "loginCreated": "Нов корисник е регистриран",
     "loginResetSuccess": "Проверете ја вашата e-mail адреса",
     "loginUpdateSuccess": "Новата лозинка е поставена",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Одјава",
     "loginLogo": "Лого",
     "loginTotpCode": "Еднократен код за лозинка",

@@ -205,6 +205,7 @@
     "loginCreated": "Ny användare har blivit registrerad",
     "loginResetSuccess": "Kontrollera din Email",
     "loginUpdateSuccess": "Nytt lösenord är sparat",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Logga ut",
     "loginLogo": "Logo",
     "loginTotpCode": "Engångslösenordskod",

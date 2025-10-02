@@ -205,6 +205,7 @@
     "loginCreated": "Novo utilizador foi registado",
     "loginResetSuccess": "Verifique o seu e-mail",
     "loginUpdateSuccess": "Nova password definida",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Sair",
     "loginLogo": "Logótipo",
     "loginTotpCode": "One-time Password Code",
