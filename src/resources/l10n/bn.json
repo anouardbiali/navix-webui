@@ -205,6 +205,7 @@
     "loginCreated": "নতুন ব্যবহারকারী নিবন্ধিত হয়েছে",
     "loginResetSuccess": "Check your email",
     "loginUpdateSuccess": "New password is set",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "লগ আউট",
     "loginLogo": "লোগো",
     "loginTotpCode": "One-time Password Code",

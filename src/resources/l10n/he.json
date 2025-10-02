@@ -205,6 +205,7 @@
     "loginCreated": "משתמש חדש נרשם",
     "loginResetSuccess": "בדוק את האימייל שלך",
     "loginUpdateSuccess": "הסיסמה החדשה הוגדרה",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "יציאה",
     "loginLogo": "לוגו",
     "loginTotpCode": "קוד סיסמה חד פעמי",

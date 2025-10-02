@@ -205,6 +205,7 @@
     "loginCreated": "Новий користувач був зареєстрований",
     "loginResetSuccess": "Check your email",
     "loginUpdateSuccess": "New password is set",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Вийти",
     "loginLogo": "Логотип",
     "loginTotpCode": "One-time Password Code",

@@ -205,6 +205,7 @@
     "loginCreated": "Uusi käyttäjä on rekisteröity",
     "loginResetSuccess": "Tarkista sähköpostisi",
     "loginUpdateSuccess": "Uusi salasana asetettu",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Kirjaudu ulos",
     "loginLogo": "Logo",
     "loginTotpCode": "Kertakäyttö salasana koodi",

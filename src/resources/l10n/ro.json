@@ -205,6 +205,7 @@
     "loginCreated": "Un nou utilizator a fost înregistrat",
     "loginResetSuccess": "Verifică email",
     "loginUpdateSuccess": "Noua parolă a fost configurată",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Deconectare",
     "loginLogo": "Logo",
     "loginTotpCode": "Cod Parolă One-time",

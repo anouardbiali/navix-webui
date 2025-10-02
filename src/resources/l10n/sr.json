@@ -205,6 +205,7 @@
     "loginCreated": "Novi korisnik je registrovan",
     "loginResetSuccess": "Proverite Vaš email",
     "loginUpdateSuccess": "Nova lozinka je postavljena",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Odjava",
     "loginLogo": "Logo",
     "loginTotpCode": "Jednokratni kod lozinke",

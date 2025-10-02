@@ -205,6 +205,7 @@
     "loginCreated": "تم تسجيل مستخدم جديد",
     "loginResetSuccess": "تحقق من بريدك الإلكتروني",
     "loginUpdateSuccess": "تم تعيين كلمة المرور الجديدة",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "تسجيل الخروج",
     "loginLogo": "الشعار",
     "loginTotpCode": "رمز كلمة المرور لمرة واحدة",

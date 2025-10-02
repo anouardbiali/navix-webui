@@ -205,6 +205,7 @@
     "loginCreated": "회원가입 되었습니다.",
     "loginResetSuccess": "이메일을 확인해주세요",
     "loginUpdateSuccess": "비밀번호가 변경되었습니다",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "로그아웃",
     "loginLogo": "로고",
     "loginTotpCode": "One-time Password Code",

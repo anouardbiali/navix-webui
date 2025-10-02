@@ -205,6 +205,7 @@
     "loginCreated": "Nouvel utilisateur enregistré",
     "loginResetSuccess": "Vérifiez vos emails",
     "loginUpdateSuccess": "Le nouveau mot de passe est défini",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Déconnexion",
     "loginLogo": "Logo",
     "loginTotpCode": "Code OTP",

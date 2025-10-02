@@ -205,6 +205,7 @@
     "loginCreated": "新しいユーザーが登録されました",
     "loginResetSuccess": "メールを確認してください",
     "loginUpdateSuccess": "新しいパスワードが設定されました",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "ログアウト",
     "loginLogo": "ロゴ",
     "loginTotpCode": "One-time Password Code",

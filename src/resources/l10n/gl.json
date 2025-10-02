@@ -205,6 +205,7 @@
     "loginCreated": "Rexistrouse un novo usuario",
     "loginResetSuccess": "Comprobe o seu correo electrónico",
     "loginUpdateSuccess": "Establécese un novo contrasinal",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Pechar sesión",
     "loginLogo": "Logotipo",
     "loginTotpCode": "One-time Password Code",

@@ -205,6 +205,7 @@
     "loginCreated": "Ο νέος χρήστης καταχωρήθηκε.",
     "loginResetSuccess": "Ελέγξτε τα email σας",
     "loginUpdateSuccess": "Το νέο συνθηματικό αποθηκεύθηκε",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Αποσύνδεση",
     "loginLogo": "Λογότυπο",
     "loginTotpCode": "Κωδικός One-time Password",

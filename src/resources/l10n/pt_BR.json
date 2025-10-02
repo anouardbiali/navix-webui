@@ -205,6 +205,7 @@
     "loginCreated": "Novo usuário registrado",
     "loginResetSuccess": "Verifique seu e-mail",
     "loginUpdateSuccess": "Nova senha definida",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Sair",
     "loginLogo": "Logotipo",
     "loginTotpCode": "Código One-time Password",

@@ -205,6 +205,7 @@
     "loginCreated": "Nuwe gebruiker is geregistreer",
     "loginResetSuccess": "Check your email",
     "loginUpdateSuccess": "Nuwe wagwoord is ingestel",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "Teken uit",
     "loginLogo": "Logo",
     "loginTotpCode": "One-time Password Code",

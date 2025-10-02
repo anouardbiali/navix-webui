@@ -205,6 +205,7 @@
     "loginCreated": "ผู้ใช้ใหม่ ได้รับการลงทะเบียน",
     "loginResetSuccess": "ตรวจสอบอีเมลของคุณ",
     "loginUpdateSuccess": "ตั้งรหัสผ่านใหม่แล้ว",
+    "loginWelcomeMessage": "Welcome! Please sign in to continue.",
     "loginLogout": "ออกจากระบบ",
     "loginLogo": "Logo",
     "loginTotpCode": "รหัสผ่านแบบใช้ครั้งเดียว",
